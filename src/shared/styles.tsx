@@ -10,5 +10,8 @@ export const styles = StyleSheet.create({
     },
     textRed: {
         color:"red"
+    },
+    flex:{
+        flex:1
     }
   });
